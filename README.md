@@ -17,6 +17,8 @@
 # Project Strcuture
 ```
 |-- Udacity-CarND-Vehicle-Detection-and-Tracking           #  https://github.com/harveenchadha/Udacity-CarND-Vehicle-Detection-and-Tracking
+    |-- non_vehicles.zip
+    |-- vehicles.zip
     |-- test_images/
     |-- project_video.mp4
     |-- test3.jpg
@@ -49,6 +51,4 @@
 ](https://towardsdatascience.com/vehicle-detection-and-tracking-using-machine-learning-and-hog-f4a8995fc30a)
 - [Copilot — lane and front collision detection](https://towardsdatascience.com/copilot-driving-assistance-635e1a50f14)
 - https://github.com/qqwweee/keras-yolo3
-# autonomous_vehicle_assignment1
-# autonomous_vehicle_assignment1
-# autonomous_vehicle_assignment1
+
