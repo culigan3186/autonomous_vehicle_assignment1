@@ -46,8 +46,8 @@
 <br>
 
 
-# Ref:
--[Vehicle Detection and Tracking using Machine Learning and HOG
+# Ref
+- [Vehicle Detection and Tracking using Machine Learning and HOG
 ](https://towardsdatascience.com/vehicle-detection-and-tracking-using-machine-learning-and-hog-f4a8995fc30a)
--[Copilot — lane and front collision detection](https://towardsdatascience.com/copilot-driving-assistance-635e1a50f14)
-=https://github.com/qqwweee/keras-yolo3
+- [Copilot — lane and front collision detection](https://towardsdatascience.com/copilot-driving-assistance-635e1a50f14)
+- https://github.com/qqwweee/keras-yolo3
