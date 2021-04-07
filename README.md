@@ -8,8 +8,8 @@
 - Waymo Open Dataset https://waymo.com/open/
 
 # Opensource 
-- Udacity-CarND-Vehicle-Detection-and-Tracking/VehicleDetectionAndTracking.ipynb
-- copilot/coPilot.ipynb
+- [Udacity-CarND-Vehicle-Detection-and-Tracking](https://github.com/harveenchadha/Udacity-CarND-Vehicle-Detection-and-Tracking)
+- [copilot](https://github.com/visualbuffer/copilot)
 
 
 <br>
