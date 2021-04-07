@@ -1,3 +1,17 @@
+# 과제1 
+-----------------------------------------------------------------------
+이름:김원준 학번:20173392 학과:자동차IT융합학과
+
+# DataSet
+- BDD100K Dataset https://bdd-data.berkeley.edu/
+- Cityscapes Dataset https://www.cityscapes-dataset.com/
+- Waymo Open Dataset https://waymo.com/open/
+
+# Opensource 
+- Udacity-CarND-Vehicle-Detection-and-Tracking/VehicleDetectionAndTracking.ipynb
+- copilot/coPilot.ipynb
+
+
 <br>
 
 # Project Strcuture
