@@ -17,10 +17,8 @@
 # Project Strcuture
 ```
 |-- Udacity-CarND-Vehicle-Detection-and-Tracking           #  https://github.com/harveenchadha/Udacity-CarND-Vehicle-Detection-and-Tracking
-    |-- non_vehicles.zip
-    |-- vehicles.zip
+    |-- test_images/
     |-- project_video.mp4
-    |-- full_video_threshold_20_with_frame_skipping_my.mp4
     |-- test3.jpg
     |-- VehicleDetectionAndTracking.ipynb
 
