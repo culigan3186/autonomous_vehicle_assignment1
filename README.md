@@ -22,7 +22,7 @@
     |-- test_images/
     |-- project_video.mp4
     |-- test3.jpg
-    |-- VehicleDetectionAndTracking.ipynb
+    |-- VehicleDetectionAndTracking.ipynb   # 실행파일
 
 |-- copilot                                                #  https://github.com/visualbuffer/copilot
     |-- model_data/        
@@ -37,7 +37,7 @@
     |-- profile.txt           
     |-- yolo.py           
     |-- yolo_model.py
-    |-- coPilot.ipynb
+    |-- coPilot.ipynb    # 실행파일
     
 |--20173392_김원준_과제1.pdf
 
